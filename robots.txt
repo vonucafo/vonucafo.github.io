@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://vonucafo.github.io/sitemap/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/BmH/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/yZC/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/kcD/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/taV/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/hMU/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/Ohk/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/ZVQ/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/gEt/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/aIN/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/QoI/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/URH/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/bju/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/xvS/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/dTy/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/Qtq/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/ehC/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/pJs/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/YBD/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/Tce/sitemap_index.vonucafo
+Sitemap: https://vonucafo.github.io/Kth/sitemap_index.vonucafo
